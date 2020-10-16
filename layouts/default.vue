@@ -1,9 +1,7 @@
 <template>
   <div>
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
-      <a class="navbar-brand" href="#"
-        ><nuxt-link class="navbar-brand" to="/">Home</nuxt-link></a
-      >
+      <nuxt-link class="navbar-brand" to="/">Home</nuxt-link>
       <button
         class="navbar-toggler"
         type="button"
