@@ -7,13 +7,13 @@ import "firebase/auth";
 import "firebase/firestore";
 
 var firebaseConfig = {
-    apiKey: "**************",
-    authDomain: "**************",
-    databaseURL: "**************",
-    projectId: "**************",
-    storageBucket: "**************",
-    messagingSenderId: "**************",
-    appId: "**************"
+    apiKey: "AIzaSyDBxoeI41sF7Cg16q2m734PQ4Ja3_FSj7s",
+    authDomain: "role-based-auth-ce7eb.firebaseapp.com",
+    databaseURL: "https://role-based-auth-ce7eb.firebaseio.com",
+    projectId: "role-based-auth-ce7eb",
+    storageBucket: "role-based-auth-ce7eb.appspot.com",
+    messagingSenderId: "220803853305",
+    appId: "1:220803853305:web:1e8a5e3399add2d44f2b28"
 };
 // Initialize Firebase
 if (!firebase.apps.length) {
